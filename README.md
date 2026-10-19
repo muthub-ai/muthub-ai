@@ -1,5 +1,4 @@
-### Muthukrishnan (Muthu) Bommiah
-
+### Knowledge Foundation
 
 I write essays on governed enterprise AI and keep a working reference system for the argument they make: **AI can write
 into a system of record only if every claim carries its source, every change goes through review, and machine output is
