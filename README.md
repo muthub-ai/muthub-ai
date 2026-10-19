@@ -2,6 +2,8 @@
 
 **Distinguished Engineer · Governed enterprise AI · Taking AI from pilot to production in regulated banks, with the controls built in.**
 
+[Essays](https://muthub.org) · [Knowledge graph](https://wiki.muthub.org) · [LinkedIn](https://www.linkedin.com/in/mbommiah)
+
 I write essays on governed enterprise AI and keep a working reference system for the argument they make: **AI can write
 into a system of record only if every claim carries its source, every change goes through review, and machine output is
 kept apart from what a person stood behind.**
